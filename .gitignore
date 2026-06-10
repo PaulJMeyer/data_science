@@ -1,0 +1,30 @@
+# Private Inhalte – nicht öffentlich
+examples/
+notebooks/
+ 
+# PDFs
+*.pdf
+ 
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+ 
+# Jupyter
+.jupyter/
+ 
+# Umgebungsvariablen & Secrets
+.env
+.env.*
+secrets.*
+ 
+# IDEs
+.vscode/
+.idea/
+ 
+# System
+.DS_Store
+Thumbs.db
