@@ -1,19 +1,34 @@
 # Data Science Portfolio
 
-Willkommen in meinem Data Science Portfolio. Hier dokumentiere ich Projekte aus meiner Fortbildung und darüber hinaus – mit Fokus auf saubere Datenverarbeitung, nachvollziehbare Modellierung und praxisnahe Fragestellungen.
+Welcome to my Data Science Portfolio.
+This repository documents my journey into Data Science through practical projects covering data analysis, machine learning and statistical modelling. The focus is on reproducible workflows, transparent data preparation and interpretable results.
 
----
+## Technologies
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Seaborn
 
-## 🗂️ Projekte
+## Projects
+🔬 Diabetes Prediction (In Progress)
 
-### 🔬 Diabetes Prediction *(In Progress)*
-**Ziel:** Vorhersage, ob Patientinnen an Diabetes erkrankt sind, anhand medizinischer Messwerte.  
-**Datensatz:** [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) (Kaggle)
+Goal: Predict whether a patient is likely to have diabetes based on medical measurements.
+
+Dataset: [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) (Kaggle)
 
 | | |
 |---|---|
-| **Status** | 🚧 In Bearbeitung |
+| **Status** | 🚧 In Progress |
 | **Bereich** | Binary Classification |
 | **Stack** | Python, pandas, scikit-learn |
 
-> Weitere Details folgen mit Projektabschluss.
+### Current focus:
+Data cleaning
+Exploratory Data Analysis (EDA)
+Feature engineering
+Model selection and evaluation
+
+
+More projects will be added over time as the portfolio grows.
