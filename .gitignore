@@ -27,4 +27,7 @@ secrets.*
  
 # System
 .DS_Store
-Thumbs.db*.pkl
+Thumbs.db
+
+# pickles
+*.pkl
